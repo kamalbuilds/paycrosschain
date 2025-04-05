@@ -1,17 +1,8 @@
 {
   "extends": "expo/tsconfig.base",
   "compilerOptions": {
+    "jsx": "react",
     "strict": true,
-    "paths": {
-      "@/*": [
-        "./*"
-      ]
-    }
-  },
-  "include": [
-    "**/*.ts",
-    "**/*.tsx",
-    "frontend/.expo/types/**/*.ts",
-    "expo-env.d.ts"
-  ]
+    "typeRoots": ["./node_modules/@types", "./types"]
+  }
 }

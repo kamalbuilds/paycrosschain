@@ -7,7 +7,6 @@ node_modules/
 .expo/
 dist/
 web-build/
-expo-env.d.ts
 
 # Native
 *.orig.*
@@ -16,6 +15,10 @@ expo-env.d.ts
 *.p12
 *.key
 *.mobileprovision
+
+.env
+.env.local
+.env.development
 
 # Metro
 .metro-health-check*
@@ -34,5 +37,3 @@ yarn-error.*
 
 # typescript
 *.tsbuildinfo
-
-app-example
