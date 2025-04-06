@@ -1,7 +1,7 @@
-
 # PayCrossChain: Multi-Chain DeFi Super App
 
-<img src="https://i.ibb.co/XyQmvsZ/paycrosschain-logo.png" alt="PayCrossChain Logo" width="200"/>
+![image](https://github.com/user-attachments/assets/a74a5d4b-95d0-4e60-baba-63f534de980e)
+
 
 PayCrossChain is a comprehensive DeFi super-app that enables seamless cross-chain payments, yield optimization, and portfolio tracking across multiple blockchains. By leveraging cutting-edge blockchain interoperability protocols, PayCrossChain removes the complexity from cross-chain transactions, allowing users to interact with different blockchains through a single, intuitive interface.
 
